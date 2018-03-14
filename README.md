@@ -1,0 +1,2 @@
+# ScriptPracticeStuff
+Practicing anything
